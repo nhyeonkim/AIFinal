@@ -1,4 +1,3 @@
 # AIFinal
-Llama training
-model: Llama2
-dataset: wikitext
+<br/>model: Llama2
+<br/>dataset: wikitext
